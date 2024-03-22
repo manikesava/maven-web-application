@@ -12,7 +12,7 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>Mithun Technologies First</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
@@ -28,9 +28,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
-
+         
 	<dependencies>
-		
+        		
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
